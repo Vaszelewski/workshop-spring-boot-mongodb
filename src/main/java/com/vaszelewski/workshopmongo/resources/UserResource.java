@@ -1,4 +1,4 @@
-package com.vaszelewski.workshopmongo.resource;
+package com.vaszelewski.workshopmongo.resources;
 
 import java.net.URI;
 import java.util.List;
