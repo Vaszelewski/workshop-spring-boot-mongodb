@@ -1,7 +1,9 @@
 # workshop-spring-boot-mongodb
 Workshop Spring Boot project with MongoDB
 
+Description:
 
+Simple system with Posts and comments.
 
 Project Goals:
 
@@ -18,3 +20,9 @@ Understand the main differences between the document-oriented and relational par
 -References
 
 - Perform queries with Spring Data and MongoRepository
+
+IDE: Eclipse IDE
+
+Programming Language: Java
+
+Other: MongoDBCompass, Postman
